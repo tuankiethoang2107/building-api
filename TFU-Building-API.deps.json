@@ -580,7 +580,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.33"
         },
         "runtime": {
-          "BuildingModels.dll": {}
+          "BuildingModels.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "CommonModels/1.0.0": {
@@ -590,12 +593,18 @@
           "Newtonsoft.Json": "13.0.3"
         },
         "runtime": {
-          "CommonModels.dll": {}
+          "CommonModels.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Enums/1.0.0": {
         "runtime": {
-          "Enums.dll": {}
+          "Enums.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "SuperOwnerModels/1.0.0": {
@@ -604,7 +613,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.33"
         },
         "runtime": {
-          "SuperOwnerModels.dll": {}
+          "SuperOwnerModels.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
